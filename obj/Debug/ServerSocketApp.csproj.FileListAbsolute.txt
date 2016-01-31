@@ -1,0 +1,9 @@
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\bin\Debug\imageviewer.exe.config
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\bin\Debug\imageviewer.exe
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\bin\Debug\imageviewer.pdb
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\obj\Debug\ServerSocketApp.csprojResolveAssemblyReference.cache
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\obj\Debug\imageviewer.Properties.Resources.resources
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\obj\Debug\ServerSocketApp.csproj.GenerateResource.Cache
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\obj\Debug\imageviewer.exe
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\obj\Debug\imageviewer.pdb
+C:\Users\Omal Perera\Desktop\Client-Server_SOCKET_Communication\obj\Debug\imageviewer.ServerSocket.resources
